@@ -3,7 +3,7 @@ This project contains a responsive layout of a portfolio page. Bootstrap framewo
 
 See here:
 
-[Responsive Layout]()
+[Responsive Layout](https://keepthelidontight.github.io/Responsive_Portfolio/index.html)
 <br>
 [GitHub Repository](https://github.com/KeepTheLidOnTight/Responsive_Portfolio)
 
