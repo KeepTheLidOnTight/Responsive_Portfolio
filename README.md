@@ -7,7 +7,7 @@ See here:
 [GitHub Repository]()
 
 # Usage Instructions
-Click on the links in the navbar too view different pages of the site. Resize the browser window to see the responsive layout.
+Click on the links in the navbar to view different pages of the site. Resize the browser window to see the responsive layout.
 
 # Installation:
 N/A
@@ -19,5 +19,4 @@ Bootstrap was used to design this responsive layout. Google fonts also reference
 N/A
 
 # Furthur Developments/Edits
--Continue to process this layout into a full fledged custom portfolio.
--Add more custom style elements
+-Continue to customize elements of the portfolio
