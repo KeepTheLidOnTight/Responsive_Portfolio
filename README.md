@@ -5,7 +5,7 @@ See here:
 
 [Responsive Layout]()
 <br>
-[GitHub Repository]()
+[GitHub Repository](https://github.com/KeepTheLidOnTight/Responsive_Portfolio)
 
 # Usage Instructions
 Click on the links in the navbar to view different pages of the site. Resize the browser window to see the responsive layout.
