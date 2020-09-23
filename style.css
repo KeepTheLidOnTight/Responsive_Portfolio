@@ -10,3 +10,12 @@
     padding-right: 0;
 
 }
+
+.header {
+    color: white;
+    text-decoration: underline;
+}
+
+.text {
+    color: white;
+}
