@@ -3,16 +3,21 @@ This project contains a responsive layout of a portfolio page. Bootstrap framewo
 
 See here:
 
-[Responsive Layout](https://keepthelidontight.github.io/Refactoring/)
+[Responsive Layout]()
+[GitHub Repository]()
 
-# Edits:
-<ol>
-  <li>Title</li>
-  <Li>Combined classes CSS</li>
-  <li>Added semantic tags HTML</li>
-  <li>Added alt attributes to img elements</li>
-  <li>Removed unneccesary elements from CSS</li>
-</ol>  
+# Usage Instructions
+Click on the links in the navbar too view different pages of the site. Resize the browser window to see the responsive layout.
 
-# Furthur Developments:
-Continue to refactor both HTML & CSS
+# Installation:
+N/A
+
+# Credits/Thanks:
+Bootstrap was used to design this responsive layout. Google fonts also referenced.
+
+# License Information: 
+N/A
+
+# Furthur Developments/Edits
+-Continue to process this layout into a full fledged custom portfolio.
+-Add more custom style elements
