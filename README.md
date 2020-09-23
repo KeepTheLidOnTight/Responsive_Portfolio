@@ -4,6 +4,7 @@ This project contains a responsive layout of a portfolio page. Bootstrap framewo
 See here:
 
 [Responsive Layout]()
+<br>
 [GitHub Repository]()
 
 # Usage Instructions
